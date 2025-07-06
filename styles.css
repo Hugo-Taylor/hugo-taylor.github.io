@@ -1,5 +1,31 @@
 body {
     margin: 0;
     background-image: url(BogBeast.png);
+    background-size: 5%;
+    background-repeat:repeat;
     text-align: center;
+}
+
+div{
+    margin: auto;
+    background: rgb(113, 124, 145);
+    width:65vw;
+    height: 100vw;
+    
+    border: 0.2vw;
+    border-style:ridge;
+    border-color: rgb(74, 66, 94);
+
+    text-align: center;
+}
+
+h1{
+    font-size: 200%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font: bold;
+}
+p{
+    font-size: 150%;
+    font-style: normal;
+    font-family: cursive;
 }
